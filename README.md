@@ -2,6 +2,14 @@
 
 Best practices boilerplate for node.js + express API application. __Free to use__
 
+## Includes
+- express server
+- sample routing
+- sample controller
+- sample model
+- db connection (mongodb)
+- jsonwebtoken auth 
+
 ## Usage
 1. Fork the project
 2. Run `npm install` to get all the dependencies
